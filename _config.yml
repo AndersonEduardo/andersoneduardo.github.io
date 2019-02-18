@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Anderson Eduardo
+description: Bem vindo! Este é o site pessoal de Anderson A. Eduardo. Sinta-se a vontade para entrar em contato.
 email: andersonaed@gmail.com
 facebook_username: anderson.eduardo.1029
 github_username: AndersonEduardo
-description: Bem vindo! Este é o site pessoal de Anderson A. Eduardo. Sinta-se a vontade para entrar em contato.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://andersoneduardo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
